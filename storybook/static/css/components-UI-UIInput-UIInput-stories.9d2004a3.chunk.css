@@ -1,0 +1,67 @@
+:root{
+    --color-white: white;
+    --color-black: black;
+    --color-gray: #9c9c9c;
+    --color-lightgray: #dfe2df;
+    --color-blue: #6a83fb;
+    --font-size-small: 14px;
+    --font-size-medium: 16px;
+    --font-family-main: sans-serif;
+    --font-bold: 600;
+    --transition: .4s;
+}
+
+*, *::after, *::before {
+    box-sizing: border-box;
+}
+
+img{
+    display: block;
+}
+
+.UIInput_wrapper_input__bn-qD {
+    --border-radius: 3px;
+    --border: 3px;
+    --clear-width: 35px;
+}
+
+.UIInput_wrapper_input__bn-qD {
+  position: relative;
+  display: inline-flex;
+}
+
+.UIInput_input__vOxEF {
+  min-width: 300px;
+  padding: 10px 15px;
+  padding-right: calc(var(--clear-width) + 15px);
+  border: var(--border) solid var(--color-lightgray);
+  border-radius: var(--border-radius);
+  font-size: var(--font-size-medium);
+  font-family: var(--font-family-main);
+  outline: none;
+}
+
+.UIInput_input__vOxEF:focus{
+    border: var(--border) solid var(--color-blue);
+}
+
+.UIInput_clear__Mwf1V {
+  position: absolute;
+  top: var(--border);
+  right: var(--border);
+  width: var(--clear-width);
+  height: calc(100% - var(--border)*2);
+  padding: 10px;
+  object-fit: contain;
+  object-position: center center;
+  transition: 0.5s;
+  opacity: 0.4;
+  cursor: pointer;
+}
+
+.UIInput_clear__disabled__B4p\+O{
+    opacity: .15;
+}
+
+
+/*# sourceMappingURL=components-UI-UIInput-UIInput-stories.9d2004a3.chunk.css.map*/

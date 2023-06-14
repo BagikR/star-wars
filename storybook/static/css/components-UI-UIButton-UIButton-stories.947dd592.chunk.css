@@ -1,0 +1,62 @@
+.UIButton_button__mVMgb{
+    min-width: 100px;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: var(--font-size-small);
+    font-family: var(--font-family-main);
+    font-weight: var(--font-bold);
+    cursor: pointer;
+    background: none;
+    outline: none;
+    transition: var(--transition);
+}
+
+.UIButton_button__mVMgb:disabled, .UIButton_button__mVMgb:disabled:hover{
+    color: var(--color-gray);
+    background-color: transparent;
+    border-color: var(--color-gray);
+    cursor: auto;
+}
+
+.UIButton_dark__UYGoQ{
+    border: 1px solid var(--color-white);
+    color: var(--color-white);
+}
+
+.UIButton_dark__UYGoQ:hover{
+    background-color: var(--color-white);
+    color: var(--color-black);
+}
+
+.UIButton_light__k6WwH{
+    border: 1px solid var(--color-black);
+    color: var(--color-black);
+}
+
+.UIButton_light__k6WwH:hover{
+    background-color: var(--color-black);
+    color: var(--color-white);
+}
+:root{
+    --color-white: white;
+    --color-black: black;
+    --color-gray: #9c9c9c;
+    --color-lightgray: #dfe2df;
+    --color-blue: #6a83fb;
+    --font-size-small: 14px;
+    --font-size-medium: 16px;
+    --font-family-main: sans-serif;
+    --font-bold: 600;
+    --transition: .4s;
+}
+
+*, *::after, *::before {
+    box-sizing: border-box;
+}
+
+img{
+    display: block;
+}
+
+
+/*# sourceMappingURL=components-UI-UIButton-UIButton-stories.947dd592.chunk.css.map*/
