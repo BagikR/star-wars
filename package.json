@@ -1,7 +1,7 @@
 {
   "name": "star-war",
   "version": "0.1.0",
-  "homepage": "https://bagikr.github.io/star-wars/",  
+  "homepage": "https://bagikr.github.io/star-wars/",
   "private": true,
   "dependencies": {
     "classnames": "^2.3.2",
@@ -53,6 +53,7 @@
     "@storybook/testing-library": "^0.0.14-next.2",
     "babel-plugin-named-exports-order": "^0.0.2",
     "eslint-plugin-storybook": "^0.6.12",
+    "gh-pages": "^5.0.0",
     "react-app-rewire-alias": "^1.1.7",
     "react-app-rewired": "^2.2.1",
     "storybook": "^7.0.12",
