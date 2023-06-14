@@ -1,0 +1,9 @@
+.buttons{
+    margin: var(--spacing-small);
+    
+}
+
+.btnContainer{
+    display: flex;
+    justify-content: center;
+}
