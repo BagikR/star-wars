@@ -1,6 +1,7 @@
 {
   "name": "star-war",
   "version": "0.1.0",
+  "homepage": "https://bagikr.github.io/star-wars/",  
   "private": true,
   "dependencies": {
     "classnames": "^2.3.2",
