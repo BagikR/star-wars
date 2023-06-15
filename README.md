@@ -10,6 +10,12 @@
 npm run start
 npm run deploy (збірка та деплой проекту на github pages та коміт у гілці gh-pages)
 ```
+## API
+- https://swapi.dev (основне API)
+- https://swapi.py4e.com (резервне API - якщо основне не працює)
+- https://starwars-visualguide.com (зображення для API)
+
+
 ## Техології, методи (хуки) та теми, що використовуються у проекті.
 
 ### React.js
