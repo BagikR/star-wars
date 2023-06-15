@@ -8,7 +8,7 @@
 ## Scripts
 ```bash
 npm run start
-npm run deploy
+npm run deploy (збірка та публікація проекту в гілці gh-pages)
 ```
 
 ##
