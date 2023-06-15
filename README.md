@@ -27,7 +27,7 @@ npm run deploy (збірка та деплой проекту на github pages 
 - Controlled Components
 - Підключення CSS, `css-modules`, бібліотека `classnames`
 - Списки та ключі, `Reconciliation Algorithm`
-- ОВідкладене завантаження компонентів `React.lazy()`
+- Відкладене завантаження компонентів `React.lazy()`
 - Бібліотека `prop-types` для валідації props
 
 ### React Router
@@ -41,11 +41,11 @@ npm run deploy (збірка та деплой проекту на github pages 
 - Базова структура react-redux-додатку
 - Хуки `useDispatch`, `useSelector`
 - Redux Middleware
-- Створення асинхронних actionз бібліотекою `redux-thunk`
+- Створення асинхронних action з бібліотекою `redux-thunk`
 - Відстежування стану store с `redux-devtools-extension`
 
 ### Загальне
-- Задання Alias в React-додатку (бібліотека `react-app-rewire-alias`)
+- Alias в React-додатку (бібліотека `react-app-rewire-alias`)
 - Деплой додатку на GitHub Pages (бібліотека `gh-pages`)
 - Створення Ui-Kit із візуальних компонентів та публікація у `@storybook`
 - Бібліотека `lodash` з готовими функціями
