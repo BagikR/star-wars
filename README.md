@@ -8,7 +8,7 @@
 ## Scripts
 ```bash
 npm run start
-npm run deploy (збірка та публікація проекту в гілці gh-pages)
+npm run deploy (збірка та деплой проекту на github pages та коміт у гілці gh-pages)
 ```
 ## Техології, методи (хуки) та теми, що використовуються у проекті.
 
